@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Karthik Ram",
+    "link": "https://twitter.com/_inundata",
+    "photo": "./images/participants/karthik-ram.jpg",
+    "affil": [
+      {
+        "name": "Berkeley Institute for Data Science",
+        "link": "http://bids.berkeley.edu/"
+      },
+      {
+        "name": "rOpenSci",
+        "link": "http://ropensci.org"
+      }
+    ]
+  },
+  {
+    "name": "Person 2",
+    "link": "https://twitter.com/person2",
+    "photo": "./images/participants/place-holder.png",
+    "affil": [
+      {
+        "name": "Bluth Company"
+      }
+    ]
+  }
+]
