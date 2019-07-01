@@ -1,7 +1,7 @@
 # [rOpenSci OzUnconf 2019 ](http://ozunconf19.ropensci.org/)
 __(invitation only), Dec 11-13 Sydney, Australia__
 
-![](http://ozunconf19.ropensci.org/images/rainbow_opera_house.jpg)
+![Sydney](http://ozunconf19.ropensci.org/images/rainbow_opera_house.jpg)
 
 Welcome to the repository for the 2019 unconference.  
 rOpenSci will be hosting its fifth major developer meeting and open science hackathon this time in Sydney.
@@ -20,4 +20,4 @@ This meeting is made possible by generous support from:
 
 - Sponsors
 
-
+![Internetrix](http://ozunconf19.ropensci.org/images/Internetrix-Vertical-RGB-1200px.png)
