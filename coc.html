@@ -1,67 +1,289 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>rOpenSci Unconference code of conduct</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=1">
-  <meta name="author" content="Karthik Ram">
-  <link rel="icon shortcut" href="images/favicon.ico">
-  <script src="//use.typekit.net/pgv8ume.js"></script>
-  <script>try{Typekit.load();}catch(e){}</script>
-  <link rel="stylesheet" href="style/main.css" media="all">
-  <script src="js/modernizr.js"></script> <!-- Modernizr -->
+<!DOCTYPE html>
+<!-- saved from url=(0037)https://ropensci.org/code-of-conduct/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="stylesheet" href="./coc_files/all.css">
+
+
+<link rel="stylesheet" href="./coc_files/academicons.min.css">
+  
+  
+<title>rOpenSci | Code of Conduct</title>
+
+  
+
+ 
+    <script async="" src="./coc_files/analytics.js.download"></script><script src="./coc_files/highlight.min.js.download"></script>
+    <script src="./coc_files/r.min.js.download"></script>
+
+    <script type="text/javascript">
+    hljs.configure({languages: []});
+    hljs.initHighlightingOnLoad();
+    </script>
+
+<link rel="stylesheet" type="text/css" href="./coc_files/style-new.css">
+<link rel="apple-touch-icon" sizes="180x180" href="https://ropensci.org/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://ropensci.org/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://ropensci.org/favicon-16x16.png">
+<link rel="manifest" href="https://ropensci.org/manifest.json">
+<link rel="mask-icon" href="https://ropensci.org/safari-pinned-tab.svg" color="#4b8add">
+<meta name="theme-color" content="#4b8add">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./coc_files/jquery-1.11.3.min.js.download"></script>
+
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	if (window.sessionStorage) {
+		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+		ga('create', 'UA-462421-6', {
+	    'storage': 'none',
+	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+	   });
+	   ga(function(tracker) {
+	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+	   });
+   }
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+
+
+
+  
+  
+     
+     
+  
+    
+    
+    
+  <title>Code of Conduct - rOpenSci - open tools for open science</title>
+    <meta property="og:title" content="Code of Conduct - rOpenSci - open tools for open science">
+    <meta property="description" content="rOpenSci Code of Conduct">
+    <meta property="og:description" content="rOpenSci Code of Conduct">
+  <meta property="og:type" content="article">
+  
+  
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="http://ropensci.org/android-chrome-512x512.png">
+  
+
+
+
+<meta name="twitter:creator" content="@rOpenSci">
+<meta name="twitter:site" content="@rOpenSci">
 </head>
 <body>
 
+    
+    <div id="header">
+        <div class="container">
+            <div class="row center-m">
+                
+                <div class="col-1">
+                    <a href="https://ropensci.org/"><img src="./coc_files/icon_lettering_white.svg"></a>
+                </div>
+                
+                
+                <nav class="col-6 col-offset-4 top-3">
+                    <ul class="row between">
+						<li><a href="https://ropensci.org/about/">About</a></li>
+                        <li><a href="https://ropensci.org/blog/">Blog</a></li>
+                        <li><a href="https://ropensci.org/packages/">Packages</a></li>
+                        <li><a href="https://ropensci.org/community/">Community</a></li>
+                        <li><a href="http://discuss.ropensci.org/" target="_blank">Discuss</a></li>
 
-  <header>
-    <div class="logo-date-wrap">
-      <a href="http://unconf.ropensci.org/"><img src="images/ropensci_small.png"  alt="rOpenSci Logo" class="site-logo"></a>
-      <div class="date-location-wrap">
-        <p class="byline">rOpenSci code of conduct</p>
-      </div>
+                    </ul>
+                </nav>
+                
+                </div>
+        </div>
     </div>
 
-    <nav class="site-nav-coc">
-      <a href="index.html#participants" class="nav-link">Who</a>
-      <a href="index.html#schedule" class="nav-link">Plan</a>
-      <a href="index.html#sponsors" class="nav-link">Sponsors</a>
-      <a href="index.html#venue" class="nav-link">Venue</a>
-  </nav>
-</header>
 
-<section>
-<div class="coc-wrap">
-<p class="bodybig">rOpenSci is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Unconf participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers.</p>
+ 
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-2 sidebar top-5">
+                <ul class="autoSidebar"></ul>
+            </div> 
+        </div>
+        <div class="row">
+            <div class="col-offset-2 col-8 top-20">
+                <h2 style="text-align: center;">Code of Conduct</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-8 col-offset-2 top-4">
 
-<p>This code of conduct applies to all participants, including rOpenSci staff and leadership and applies to all modes of interaction, both in-person and online, including Unconf GitHub project repos and rOpenSci GitHub, the rOpenSci discussion forum, Slack channels and Twitter.</p>
+                
 
-<p>rOpenSci unconf participants agree to:</p>
+<p><strong>Version 2.0 – January 10, 2019</strong></p>
+
+<p>rOpenSci’s community is our best asset and we believe that our diversity is our strength. We are building a welcoming and diverse global community of software users and developers from a range of research domains. It’s so important to us, it’s in <a href="https://ropensci.org/about/">our mission statement</a>. Whether you’re a regular contributor or a newcomer, we care about making this a safe place for you and we’ve got your back.</p>
+
+<p>rOpenSci is committed to providing a safe, inclusive, welcoming, and harassment-free experience for everyone.</p>
+
+<p>We try to cultivate a community with shared values, where people are comfortable exploring ideas, asking questions, and saying things like “I don’t understand” or “Why”. Assume competence in the people you interact with. There are no stupid questions.</p>
+
+<p>Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow community members.</p>
+
+<p>Take care of each other. Alert a member of the Code of Conduct Committee (<a href="https://ropensci.org/code-of-conduct/#reporting-guidelines">named below</a>) if you notice a dangerous situation, someone in distress, or a potential violation of this Code of Conduct, even if it seems inconsequential.</p>
+
+<p>We do not tolerate harassment in any form. Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to:</p>
 
 <ul>
-<li>Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.</li>
-<li>Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any member of the conference team in person.</li>
-<li>Take care of each other. Alert a member of the conference team if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.</li>
+<li>offensive comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices</li>
+<li>unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, or employment</li>
+<li>sustained or willful disruption of discussions, talks, or other events</li>
+<li>deliberate intimidation</li>
+<li>continued one-on-one communication after requests to cease</li>
+<li>unwanted photography or recording, including logging online activity for harassment purposes</li>
+<li>pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others</li>
+<li>inappropriate physical contact without consent or after a request to stop</li>
+<li>stalking or following</li>
+<li>threats of violence or incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm</li>
+<li>use of sexual or discriminatory imagery, comments, or jokes</li>
+<li>unwelcome sexual attention</li>
+<li>deliberate ‘outing’ of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse</li>
+<li>deliberate misgendering or use of ‘dead’ or rejected names</li>
+<li>publication of non-harassing private communication</li>
 </ul>
 
-<br>
-<h1 class="large-title">Need Help?</h1>
-<br>
-<p class="imp-stuff">Please speak with Stefanie Butland, Karthik Ram, or Jenny Bryan if you have any concerns. You may also reach out to security who will be present all through the event if you are unable to reach Stef, Karthik, or Jenny.</p>
+<p>We prioritize marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:</p>
 
-<p>If any attendee engages in harassing behavior, the conference organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the conference team with a concise description of your grievance.)</p>
+<ul>
+<li>‘reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’</li>
+<li>reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you”</li>
+<li>communicating in a ‘tone’ you don’t find congenial</li>
+<li>criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions</li>
+</ul>
 
-<p>We welcome your <a href="http://ropensci.org/contact.html" title="rOpenSci - Contact">feedback</a> on this and every other aspect of rOpenSci's events, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.</p>
+<p>If anyone engages in harassing behavior, the Committee will take action that may include warning the offender or asking them to leave an event or an online channel either temporarily or permanently, or seeking help from law enforcement.</p>
 
-<p>Parts of above text <i>is licensed CC BY-SA 4.0. Credit to <a href="http://srccon.org/">SRCCON</a>. Also inspired by <a href="https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/">the Ada Initiative&rsquo;s &ldquo;how to design a code of conduct for your community.&rdquo;</i></a></p>
+<p>This Code of Conduct applies to all people participating in the rOpenSci community, including rOpenSci staff and leadership. It applies to all modes of interaction online including GitHub project repositories, the rOpenSci discussion forum, Slack, Community Calls, and in person at rOpenSci-hosted events or events officially endorsed by rOpenSci, including social gatherings affiliated with the event.</p>
+
+<h3 id="reporting-guidelines">Reporting Guidelines</h3>
+
+<p>The rOpenSci Code of Conduct Committee includes <a href="https://ropensci.org/authors/stefanie-butland">Stefanie Butland</a> (rOpenSci Community Manager), <a href="https://ropensci.org/authors/scott-chamberlain">Scott Chamberlain</a> (rOpenSci Co-founder and Technical Lead) and <a href="https://karawoo.com/">Kara Woo</a> (independent community member).</p>
+
+<p>If you experience or witness unacceptable behavior, or have any other concerns, <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPdhOveaz21SitTBpQ5686xEKPq8DW-Kb8CyKyX89aw5Mz_A/viewform">please submit a report  to the Committee as soon as possible using this form</a>. Alternatively, you may email <code>conduct@ropensci.org</code>, which will go to all three Committee members. You may also make a report directly to one member of the Committee by contacting them directly. If any member of the Committee has a conflict of interest with a report, they will be recused and will not have access to the content or process of the report followup. At an in-person rOpenSci event, please reach out to anyone named as a member of that event-specific Code of Conduct Committee, or to venue staff or security who will be present throughout the event.</p>
+
+<p>If you are planning to attend an upcoming event or join an online channel, and have concerns regarding another individual who may be present, please submit a report as described above. We will work with you to take precautions to ensure your comfort and safety. These precautions may include: providing an escort, preparing onsite event staff, and/or providing on-site contact cell phone numbers for immediate contact. In some cases, we may take action to prevent a harasser from attending the conference.</p>
+
+<p>The Code of Conduct Committee will investigate and decide responses to reports with the aim of making a decision and implementing enforcement as soon as is reasonably possible. We are committed to transparency with our community while upholding the privacy of victims. We will publish brief, anonymized summaries of incidents on the <a href="https://discuss.ropensci.org/c/conduct">forum</a> in a dedicated, read-only category, and will publish on the rOpenSci blog an annual transparency report.</p>
+
+<p>We welcome your feedback by email to <code>conduct@ropensci.org</code>, and we thank you for working with us to make rOpenSci a safe, enjoyable, friendly and enriching experience for everyone who participates.</p>
+
+<h4 id="license-and-credits">License and Credits</h4>
+
+<p>The rOpenSci Code of Conduct has been influenced by and adapted from many sources including the <a href="https://youtu.be/nizfHxg8y3o">Open Source and Feelings talk</a> by <a href="http://lifeofaudrey.com/">Audrey Eschright</a>, the R Consortium R Community Diversity and Inclusion Working Group’s draft <a href="https://github.com/RConsortium/RCDI-WG/blob/0ca0a91dccc9296ff53a5806f52a2a49dbb8850d/conduct/code-of-conduct.md">Code of Conduct</a>, the <a href="http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy">Geek Feminism anti-harassment policy</a>, and our own Community Call: <a href="https://ropensci.org/commcalls/2016-12-15/">How do I create a Code of Conduct for my event/lab/codebase?</a></p>
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="./coc_files/88x31.png" style="border-style: none; width: 88px;" alt="CC0">
+  </a>
+  <br>
+  To the extent possible under law,
+  <a rel="dct:publisher" href="https://ropensci.org/">
+    <span property="dct:title">rOpenSci</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">rOpenSci Code of Conduct</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166" content="US" about="https://ropensci.org/">
+  United States</span>.
+</p>
+
 </div>
-</section>
+            </div>
+        </div>
+</article>
 
-<footer>
- <div class="foot-wrap">
-   <p><a href="http://ropensci.org/contact.html">Contact us</a> for more information about the event. This page is available at <a href="https://github.com/ropensci/unconf18/tree/gh-pages">this repo</a>. Corrections, changes, and suggestions for improvement are welcome as pull requests.</p>
- </div>
-</footer>
 
-</body>
-</html>
+
+
+    <div id="footer">
+        <div class="container">
+            <div class="row start">
+                <div class="col-1 col-1-3 top-8">
+                    <img src="./coc_files/icon_short_white.svg">
+                </div>
+
+                <div class="col-9 col-offset-2 top-10 bottom-8">
+                    <div class="row between">
+                        <div class="col-3 col-1-3">
+                            <a href="http://github.com/ropensci" target="_blank"><div class="icon icon-github"></div></a>
+                            <a href="http://github.com/ropenscilabs" target="_blank"><div class="icon fa fa-icon fa-flask"></div></a>
+                            <a href="http://twitter.com/ropensci" target="_blank"><div class="icon icon-twitter"></div></a>
+                            <a href="http://vimeo.com/ropensci" target="_blank"><div class="icon icon-vimeo"></div></a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-2 col-1-3 top-8 bottom-8">
+                            <ul>
+                                <h5 class="bottom-2">Info</h5>
+                                <li><a href="https://ropensci.org/about">Mission</a></li>
+                                <li><a href="https://ropensci.org/about#team">Team</a></li>
+                                <li><a href="https://ropensci.org/about#collaborators">Collaborators</a></li>
+                                <li><a href="https://ropensci.org/careers">Careers</a></li>
+
+                            </ul>
+                        </div>
+
+                        <div class="col-2 col-1-3 top-8 bottom-8">
+                            <ul>
+                                <h5 class="bottom-2">Work</h5>
+                                <li><a href="https://ropensci.org/packages/">Packages</a></li>
+                                <li><a href="https://ropensci.org/blog/">Blog</a></li>
+                                <li><a href="https://ropensci.org/technotes/">Tech Notes</a></li>
+                                <li><a href="https://ropensci.org/tutorials/">Tutorials</a></li>
+                                <li><a href="https://ropensci.org/usecases/">Use Cases</a></li>
+                                <li><a href="https://ropensci.org/resources/">More Resources</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-2 col-1-3 top-8 bottom-8">
+                            <ul>
+                                <h5 class="bottom-2">Participate</h5>
+                                <li><a href="https://ropensci.org/contact/">Contact us</a></li>
+                                <li><a href="https://ropensci.org/community/">Community</a></li>
+                                <li><a href="https://ropensci.org/software-review/">Contribute software</a></li>
+                                <li><a href="https://ropensci.org/code-of-conduct">Code of conduct</a></li>
+                                <li><a href="https://ropensci.org/events/">Events</a></li>
+                                <li><a href="https://ropensci.org/commcalls/">Community calls</a></li>
+                                <li><a href="https://ropensci.org/donate/">Donate</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-4 top-8 bottom-8">
+                            <h5 class="bottom-2"></h5>
+
+                            <p>rOpenSci is a fiscally sponsored project of <a href="http://numfocus.org/" target="_blank">NumFOCUS</a></p>
+                            <a href="http://numfocus.org/" target="_blank"><img src="./coc_files/numfocus.png"></a>
+                            <br>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 top-8 bottom-9 divider">
+                    <p class="top-9">Except where otherwise noted, content on this site is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY license</a>.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+</body></html>
