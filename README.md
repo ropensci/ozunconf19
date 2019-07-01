@@ -29,7 +29,7 @@ This meeting is made possible by generous support from:
 
 - Statistical Society Of Australia
 
-![Statistical Society Of Australia](http://ozunconf19.ropensci.org/images/StatisticalSocietyOfAustralia_Logotype_MAIN USE.png)
+![Statistical Society Of Australia](http://ozunconf19.ropensci.org/images/StatisticalSocietyOfAustralia_Logotype_MAIN_USE.png)
 
 - Australian Beuro of Statistics
 
