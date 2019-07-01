@@ -22,26 +22,26 @@ This meeting is made possible by generous support from:
 
  
 
-<div style="width:300px; height:200px">
-![Internetrix](http://ozunconf19.ropensci.org/images/Internetrix-Vertical-RGB-1200px.png)
-</div>
+ 
+![Internetrix](http://ozunconf19.ropensci.org/images/Internetrix-Vertical-RGB-1200px.png =250x)
+ 
 
 - Nous
 
-<div style="width:300px; height:200px">
-![Nous](http://ozunconf19.ropensci.org/images/Nous.jpeg) 
-</div>
+ 
+![Nous](http://ozunconf19.ropensci.org/images/Nous.jpeg =250x) 
+ 
 
 
 - Statistical Society Of Australia
 
-<div style="width:300px; height:200px">
-![Statistical Society Of Australia](http://ozunconf19.ropensci.org/images/StatisticalSocietyOfAustralia_Logotype_MAIN_USE.png) 
-</div>
+ 
+![Statistical Society Of Australia](http://ozunconf19.ropensci.org/images/StatisticalSocietyOfAustralia_Logotype_MAIN_USE.png =250x) 
+ 
 
 - Australian Beuro of Statistics
 
-<div style="width:300px; height:200px">
-![Australian Beuro of Statistics](http://ozunconf19.ropensci.org/images/ABS_Logo_RGB_Mono_72px_125W_ResponsiveLR.png) 
-</div>
+ 
+![Australian Beuro of Statistics](http://ozunconf19.ropensci.org/images/ABS_Logo_RGB_Mono_72px_125W_ResponsiveLR.png =250x) 
+ 
 
