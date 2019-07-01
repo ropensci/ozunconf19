@@ -1,9 +1,10 @@
 # [rOpenSci OzUnconf 2019 ](http://ozunconf19.ropensci.org/)
 __(invitation only), Dec 11-13 Sydney, Australia__
 
-![](http://ozunconf19.ropensci.org/images/Seattle.svg)
+![](http://ozunconf19.ropensci.org/images/rainbow_opera_house.jpg)
 
-Welcome to the repository for the 2018 unconference.  rOpenSci will be hosting its fifth major developer meeting and open science hackathon this time in Seattle.
+Welcome to the repository for the 2019 unconference.  
+rOpenSci will be hosting its fifth major developer meeting and open science hackathon this time in Sydney.
 
 * [Participants](http://ozunconf19.ropensci.org/#participants)  
 * Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/ropensci/ozunconf19/issues/).
