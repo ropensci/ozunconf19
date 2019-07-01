@@ -18,9 +18,11 @@ To ensure a safe, enjoyable, and friendly experience for everyone who participat
 ## Support  
 This meeting is made possible by generous support from:
 
-- Sponsors
+- Internetrix
 
 ![Internetrix](http://ozunconf19.ropensci.org/images/Internetrix-Vertical-RGB-1200px.png)
 
+
+- Nous
 
 ![Nous](http://ozunconf19.ropensci.org/images/Nous.jpeg)
