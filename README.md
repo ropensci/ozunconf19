@@ -26,3 +26,12 @@ This meeting is made possible by generous support from:
 - Nous
 
 ![Nous](http://ozunconf19.ropensci.org/images/Nous.jpeg)
+
+- Statistical Society Of Australia
+
+![Statistical Society Of Australia](http://ozunconf19.ropensci.org/images/StatisticalSocietyOfAustralia_Logotype_MAIN USE.png)
+
+- Australian Beuro of Statistics
+
+![Australian Beuro of Statistics](http://ozunconf19.ropensci.org/images/ABS_Logo_RGB_Mono_72px_125W_ResponsiveLR.png)
+
