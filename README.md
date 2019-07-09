@@ -18,21 +18,35 @@ To ensure a safe, enjoyable, and friendly experience for everyone who participat
 ## Support  
 This meeting is made possible by generous support from:
 
+
+- Centre for Translational Data Science - University of Sydney
+
+<img src="images/CTDS.png" alt="Centre for Translational Data Science - University of Sydney" width="200"/>
+
+- United States Studies Centre - Sydney University
+
+
+<img src="images/USSC.jpeg" alt="United States Studies Centre - Sydney University" width="200"/>
+
+
+
+
+
 - Internetrix
 
-<img src="http://ozunconf19.ropensci.org/images/Internetrix-Vertical-RGB-1200px.png" alt="Internetrix" width="200"/>
+<img src="images/Internetrix-Vertical-RGB-1200px.png" alt="Internetrix" width="200"/>
 
 - Nous
 
-<img src="http://ozunconf19.ropensci.org/images/Nous.jpeg" alt="Nous" width="200"/>
+<img src="images/Nous.jpeg" alt="Nous" width="200"/>
 
 - Statistical Society Of Australia
 
-<img src="http://ozunconf19.ropensci.org/images/StatisticalSocietyOfAustralia_Logotype_MAIN_USE.png" alt="Statistical Society Of Australia" width="200"/>
+<img src="images/StatisticalSocietyOfAustralia_Logotype_MAIN_USE.png" alt="Statistical Society Of Australia" width="200"/>
  
  
 - Australian Beuro of Statistics
 
  
-<img src="http://ozunconf19.ropensci.org/images/ABS_Logo_RGB_Mono_72px_125W_ResponsiveLR.png" alt="Australian Beuro of Statistics" width="200"/>
+<img src="images/ABS_Logo_RGB_Mono_72px_125W_ResponsiveLR.png" alt="Australian Beuro of Statistics" width="200"/>
 
