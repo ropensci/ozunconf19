@@ -14,13 +14,83 @@
       }
     ]
   },
-  {
-    "name": "Person 2",
-    "link": "https://twitter.com/person2",
-    "photo": "./images/participants/place-holder.png",
+    {
+    "name": "Steph Stammel",
+    "link": "https://twitter.com/@StephStammel",
+    "photo": "./images/participants/StephStammel.jpg",
     "affil": [
       {
-        "name": "Bluth Company"
+        "name": "Price Waterhouse Coopers, Sydney"
+      }
+    ]
+  },
+  {
+    "name": "John Ormerod",
+    "link": "https://twitter.com/@john_t_ormerod",
+    "photo": "./images/participants/john_ormerod.jpg",
+    "affil": [
+      {
+        "name": "The University of Sydney"
+      }
+    ]
+  },
+  {
+    "name": "Emi Tanaka",
+    "link": "https://twitter.com/@statsgen",
+    "photo": "./images/participants/statsgen.jpg",
+    "affil": [
+      {
+        "name": "The University of Sydney"
+      }
+    ]
+  },
+  {
+    "name": "Dianne Cook",
+    "link": "https://twitter.com/@visnut",
+    "photo": "./images/participants/visnut.jpeg",
+    "affil": [
+      {
+        "name": "Monash University"
+      }
+    ]
+  },
+  {
+    "name": "Rob Hyndman",
+    "link": "https://twitter.com/@robjhyndman",
+    "photo": "./images/participants/RobHyndman.png",
+    "affil": [
+      {
+        "name": "Monash University"
+      }
+    ]
+  },
+  {
+    "name": "Nicholas Tierney",
+    "link": "https://twitter.com/@nj_tierney",
+    "photo": "./images/participants/nj_tierney.png",
+    "affil": [
+      {
+        "name": "Monash University"
+      }
+    ]
+  },
+  {
+    "name": "Danielle Navarro",
+    "link": "https://twitter.com/@djnavarro",
+    "photo": "./images/participants/djnavarro.jpg",
+    "affil": [
+      {
+        "name": "The University of New South Wales"
+      }
+    ]
+  },
+  {
+    "name": "Melina Vidoni",
+    "link": "https://twitter.com/@melvidoni",
+    "photo": "./images/participants/melvidoni.jpg",
+    "affil": [
+      {
+        "name": "RMIT"
       }
     ]
   }
