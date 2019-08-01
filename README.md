@@ -45,7 +45,7 @@ This meeting is made possible by generous support from:
 <img src="images/StatisticalSocietyOfAustralia_Logotype_MAIN_USE.png" alt="Statistical Society Of Australia" width="200"/>
  
  
-- Australian Bereau of Statistics
+- Australian Bureau of Statistics
 
  
 <img src="images/ABS_Logo_RGB_Mono_72px_125W_ResponsiveLR.png" alt="Australian Beuro of Statistics" width="200"/>
