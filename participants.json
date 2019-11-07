@@ -40,7 +40,8 @@
     "photo": "./images/participants/statsgen.jpg",
     "affil": [
       {
-        "name": "The University of Sydney"
+        "name": "The University of Sydney",
+        "link": "http://emitanaka.org"
       }
     ]
   },
@@ -85,12 +86,392 @@
     ]
   },
   {
-    "name": "Melina Vidoni",
-    "link": "https://twitter.com/@melvidoni",
-    "photo": "./images/participants/melvidoni.jpg",
+    "name": "Alex Whan",
+    "link": "https://twitter.com/alexwhan",
+    "photo": "images/participants/alex_whan_img_20191028_234822.jpg",
     "affil": [
       {
-        "name": "RMIT"
+        "name": "CSIRO",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Alyce Russell",
+    "link": "https://twitter.com/nerdrusty",
+    "photo": "images/participants/alyce_russell_raine_pic2.jpg",
+    "affil": [
+      {
+        "name": "SMHS, ECU",
+        "link": "https://www.linkedin.com/in/alyce-russell-0039a667/"
+      }
+    ]
+  },
+  {
+    "name": "Belinda Fabian",
+    "link": "https://twitter.com/BeaCurious",
+    "photo": "images/participants/belinda_fabian_img_7407.jpg",
+    "affil": [
+      {
+        "name": "Macquarie University",
+        "link": "belindafabian.com.au"
+      }
+    ]
+  },
+  {
+    "name": "Chris Brown",
+    "link": "https://twitter.com/CStatsAU",
+    "photo": "images/participants/chris_brown_chris_b2.jpg",
+    "affil": [
+      {
+        "name": "NHMRC Clinical Trials Centre",
+        "link": "https://ctc.usyd.edu.au/about-us/our-people/academics-research-fellows/christopher-brown/"
+      }
+    ]
+  },
+  {
+    "name": "Darya Vanichkina",
+    "link": "https://twitter.com/dvanichkina",
+    "photo": "images/participants/darya_vanichkina_darya_vhead2_smile.jpg",
+    "affil": [
+      {
+        "name": "Sydney Informatics Hub",
+        "link": "https://daryavanichkina.com/"
+      }
+    ]
+  },
+  {
+    "name": "David Wilkinson",
+    "photo": "images/participants/user.png",
+    "affil": [
+      {
+        "name": "University of Melbourne",
+        "link": "https://github.com/Doi90"
+      }
+    ]
+  },
+  {
+    "name": "David Neuzerling",
+    "link": "https://twitter.com/mdneuzerling",
+    "photo": "images/participants/david_neuzerling_f77994c4_6ece_4a40_be89_43ee1dfe0fc1.jpeg",
+    "affil": [
+      {
+        "name": "NAB",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Disha Patil",
+    "link": "https://twitter.com/Disha_SH_",
+    "photo": "images/participants/disha_patil_dishapatil.png",
+    "affil": [
+      {
+        "name": "Wynum Technologies, Pune",
+        "link": "https://shirtsandskirtsblog.wordpress.com"
+      }
+    ]
+  },
+  {
+    "name": "Elise Magatova",
+    "link": "https://twitter.com/elisemagatova",
+    "photo": "images/participants/elise_magatova_dsc6785_elbows_are_on.jpg",
+    "affil": [
+      {
+        "name": "University of Sydney",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Emily Kothe",
+    "link": "https://twitter.com/emilyandthelime",
+    "photo": "images/participants/emily_kothe_emily.jpeg",
+    "affil": [
+      {
+        "name": "Deakin University",
+        "link": "http://emilykothe.com"
+      }
+    ]
+  },
+  {
+    "name": "Erika Siregar",
+    "link": "https://twitter.com/erikaris",
+    "photo": "images/participants/erika_siregar_headshot_wisuda.jpg",
+    "affil": [
+      {
+        "name": "Statistics Indonesia",
+        "link": "https://www.linkedin.com/in/erika-siregar/"
+      }
+    ]
+  },
+  {
+    "name": "Giulio Valentino Dalla Riva",
+    "link": "https://twitter.com/ipnosimmia",
+    "photo": "images/participants/user.png",
+    "affil": [
+      {
+        "name": "University of Canterbury",
+        "link": "gvdallariva.net"
+      }
+    ]
+  },
+  {
+    "name": "Jen Richmond",
+    "link": "https://twitter.com/JenRichmondPhD",
+    "photo": "images/participants/jen_richmond_pic_crop.png",
+    "affil": [
+      {
+        "name": "UNSW",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Jessica Lee",
+    "link": "https://twitter.com/jesssileee",
+    "photo": "images/participants/jessica_lee_headshot6_2.jpg",
+    "affil": [
+      {
+        "name": "UNSW",
+        "link": "https://github.com/jessica-c-lee"
+      }
+    ]
+  },
+  {
+    "name": "Kat Terris",
+    "photo": "images/participants/kat_terris_d433ab8d_74b3_412c_bbc2_4aca6b3310c6.jpeg",
+    "affil": [
+      {
+        "name": "Department of Human Services",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Kevin Wang",
+    "link": "https://twitter.com/KevinWang009",
+    "photo": "images/participants/kevin_wang_official_photo2017.jpg",
+    "affil": [
+      {
+        "name": "University of Sydney",
+        "link": "https://sydney.edu.au/science/about/our-people/academic-staff/kevin-wang.html"
+      }
+    ]
+  },
+  {
+    "name": "Kim Fitter",
+    "link": "https://twitter.com/kim_fitter",
+    "photo": "images/participants/kim_fitter_kim_fitter_shot.png",
+    "affil": [
+      {
+        "name": "Early Startup, Auckland",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Kristy Robledo",
+    "link": "https://twitter.com/redheadkristy",
+    "photo": "images/participants/kristy_robledo_kristy_robledo.png",
+    "affil": [
+      {
+        "name": "NHMRC Clinical Trials Centre",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Kylie Scales",
+    "link": "https://twitter.com/KylieScales",
+    "photo": "images/participants/kylie_scales_screen_shot_2019_10_30_at_7_12_25_pm.png",
+    "affil": [
+      {
+        "name": "USC Australia",
+        "link": "https://scholar.google.com/citations?user=lE54_4QAAAAJ&hl=en"
+      }
+    ]
+  },
+  {
+    "name": "Lizzie Reid",
+    "photo": "images/participants/lizzie_reid_lizzie_reid.jpg",
+    "affil": [
+      {
+        "name": "PwC",
+        "link": "https://www.linkedin.com/in/lizzie-reid-2b2160117/"
+      }
+    ]
+  },
+  {
+    "name": "Maria Prokofieva",
+    "link": "https://twitter.com/m45hap",
+    "photo": "images/participants/maria_prokofieva_meme.jpg",
+    "affil": [
+      {
+        "name": "Victoria University",
+        "link": "https://www.linkedin.com/in/mariapr/"
+      }
+    ]
+  },
+  {
+    "name": "Mike Cheng",
+    "link": "https://twitter.com/coolbutuseless",
+    "photo": "images/participants/user.png",
+    "affil": [
+      {
+        "name": "Model Answers",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Mitch Stares",
+    "link": "https://twitter.com/DeadTreeDude",
+    "photo": "images/participants/mitch_stares_fb_img_1572429633651.jpg",
+    "affil": [
+      {
+        "name": "University of Wollongong",
+        "link": "www.staringatr.com"
+      }
+    ]
+  },
+  {
+    "name": "Mitchell O'Hara-Wild",
+    "link": "https://twitter.com/mitchoharawild",
+    "photo": "images/participants/mitchell_o_hara_wild_icon.jpg",
+    "affil": [
+      {
+        "name": "Monash University",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Paul Yacobellis",
+    "photo": "images/participants/paul_yacobellis_paulyacobellis_headshot.jpg",
+    "affil": [
+      {
+        "name": "Transport for NSW",
+        "link": "www.how2bproductive.com"
+      }
+    ]
+  },
+  {
+    "name": "Paula A. Martinez",
+    "link": "https://twitter.com/orchid00",
+    "photo": "images/participants/paula_a_martinez_paula_400x400.jpg",
+    "affil": [
+      {
+        "name": "National Imaging Facility",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Rhydwyn Mcguire",
+    "link": "https://twitter.com/Rhydwyn",
+    "photo": "images/participants/rhydwyn_mcguire_rhydwyn_mcguire.jpg",
+    "affil": [
+      {
+        "name": "Health Protection NSW",
+        "link": "www.rhydwyn.net"
+      }
+    ]
+  },
+  {
+    "name": "Ryo Nakagawara",
+    "link": "https://twitter.com/R_by_Ryo",
+    "photo": "images/participants/ryo_nakagawara_ryo_nakagawara_headshot.jpg",
+    "affil": [
+      {
+        "name": "ACDI/VOCA",
+        "link": "https://ryo-n7.github.io/"
+      }
+    ]
+  },
+  {
+    "name": "Sarah Romanes",
+    "link": "https://twitter.com/sarah_romanes",
+    "photo": "images/participants/sarah_romanes_sarah_pic.jpg",
+    "affil": [
+      {
+        "name": "University of Sydney",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Sayani Gupta",
+    "link": "https://twitter.com/SayaniGupta07",
+    "photo": "images/participants/sayani_gupta_sayani.png",
+    "affil": [
+      {
+        "name": "Monash University",
+        "link": "https://sayani.netlify.com/"
+      }
+    ]
+  },
+  {
+    "name": "Stephen Pearce",
+    "photo": "images/participants/user.png",
+    "affil": [
+      {
+        "name": "CSIRO",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Thomas Fung",
+    "link": "https://twitter.com/thomasfungdr",
+    "photo": "images/participants/thomas_fung_thomas_jfif.jpeg",
+    "affil": [
+      {
+        "name": "Macquarie University",
+        "link": "https://researchers.mq.edu.au/en/persons/thomas-fung"
+      }
+    ]
+  },
+  {
+    "name": "Timothy Dobbins",
+    "link": "https://twitter.com/the_t_d",
+    "photo": "images/participants/timothy_dobbins_timothy_dobbins_headshot.jpg",
+    "affil": [
+      {
+        "name": "UNSW",
+        "link": "https://research.unsw.edu.au/people/associate-professor-timothy-dobbins"
+      }
+    ]
+  },
+  {
+    "name": "Saras Windecker",
+    "link": "https://twitter.com/smwindecker",
+    "photo": "images/participants/saras_windecker_profile.png",
+    "affil": [
+      {
+        "name": "University of Melbourne",
+        "link": "www.github.com/smwindecker"
+      }
+    ]
+  },
+  {
+    "name": "Lara Easdale",
+    "photo": "images/participants/lara_easdale_lara_easdale_300dpi_4685.jpg",
+    "affil": [
+      {
+        "name": "PwC",
+        "link": null
+      }
+    ]
+  },
+  {
+    "name": "Huong Ly Tong",
+    "link": "https://twitter.com/lytong22",
+    "photo": "images/participants/huong_ly_tong_2017_03_30_tong_huong_ly.jpg",
+    "affil": [
+      {
+        "name": "Macquarie University",
+        "link": "https://researchers.mq.edu.au/en/persons/ly-tong"
       }
     ]
   }
