@@ -30,7 +30,7 @@
     "photo": "./images/participants/john_ormerod.jpg",
     "affil": [
       {
-        "name": "The University of Sydney"
+        "name": "University of Sydney"
       }
     ]
   },
@@ -40,7 +40,7 @@
     "photo": "./images/participants/statsgen.jpg",
     "affil": [
       {
-        "name": "The University of Sydney",
+        "name": "University of Sydney",
         "link": "http://emitanaka.org"
       }
     ]
@@ -81,7 +81,7 @@
     "photo": "./images/participants/djnavarro.jpg",
     "affil": [
       {
-        "name": "The University of New South Wales"
+        "name": "UNSW"
       }
     ]
   },
