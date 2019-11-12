@@ -476,14 +476,14 @@
     ]
   },
   {
-  	"name": "Murray	Cadzow",
-  	"link": "https://twitter.com/MurrayCadzow",
-  	"photo": "images/participants/murray_cadzow_murray_headshot_2019.jpg",
-  	"affil": [
-  	   {
-  		"name": "University of Otago",
-  		"link": "https://github.com/murraycadzow"
-  	   }
-  	]
+    "name": "Murray Cadzow",
+    "link": "https://twitter.com/MurrayCadzow",
+    "photo": "images/participants/murray_cadzow_murray_headshot_2019.jpg",
+    "affil": [
+      {
+        "name": "University of Otago",
+        "link": "https://github.com/murraycadzow"
+      }
+    ]
   }
 ]
