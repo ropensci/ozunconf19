@@ -85,6 +85,18 @@
       }
     ]
   },
+
+  {
+    "name": "Melina Vidoni",
+    "link": "https://twitter.com/@melvidoni",
+    "photo": "./images/participants/melvidoni.jpg",
+        "affil": [
+      {
+        "name": "RMIT"
+      }
+    ]
+  },
+
   {
     "name": "Alex Whan",
     "link": "https://twitter.com/alexwhan",
