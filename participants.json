@@ -1,20 +1,4 @@
-[
-  {
-    "name": "Karthik Ram",
-    "link": "https://twitter.com/_inundata",
-    "photo": "./images/participants/karthik-ram.jpg",
-    "affil": [
-      {
-        "name": "Berkeley Institute for Data Science",
-        "link": "http://bids.berkeley.edu/"
-      },
-      {
-        "name": "rOpenSci",
-        "link": "http://ropensci.org"
-      }
-    ]
-  },
-    {
+[{
     "name": "Steph Stammel",
     "link": "https://twitter.com/@StephStammel",
     "photo": "./images/participants/StephStammel.jpg",
