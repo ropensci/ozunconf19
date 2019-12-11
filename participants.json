@@ -481,5 +481,15 @@
         "link": "https://github.com/Maschette"
       }
     ]
+  },
+  {
+    "name": "Tania Prvan",
+    "photo": "images/participants/user.png",
+    "affil": [
+      {
+        "name": "Macquarie University",
+        "link": ""
+      }
+    ]
   }
 ]
