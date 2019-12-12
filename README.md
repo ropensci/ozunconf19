@@ -13,7 +13,7 @@ Event hashtag is `#ozunconf19`
 
 ## Projects
 
-Check out the projects that came out of this [unconf](projects.md)
+Check out the [projects](projects.md) that came out of this unconf
 
 ## Code of conduct
 
