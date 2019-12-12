@@ -11,6 +11,10 @@ rOpenSci will be hosting its fifth major developer meeting and open science hack
 
 Event hashtag is `#ozunconf19`
 
+## Projects
+
+Check out the projects that came out of this [unconf](projects.md)
+
 ## Code of conduct
 
 To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a [code of conduct](http://ozunconf19.ropensci.org/coc).  This applies to people attending in person or remotely, and for interacting over the [issues](https://github.com/ropensci/ozunconf19/issues/).
