@@ -3,7 +3,7 @@
 ###  [❓ 🙋`quizlite` - create lightweight HTML / JS quizzes](https://github.com/ropenscilabs/quizlite) or [`quizlr` - using sketch by Jackson Kwok](https://github.com/ropenscilabs/quizlr)
 ###  [⛰️ `gghdr` - plotting highest density regions in the ggplot2 framework](https://github.com/ropenscilabs/gghdr)
 ###  [🇦🇺 `OZdatasets` - Australian datasets](https://github.com/ropenscilabs/OZdatasets)
-### [🥡 `CIsandbox` - test some github actions with R and secrets](https://github.com/ropenscilabs/CIsandbox)
+### [🥡 `actions_sandbox` - test some github actions with R and secrets](https://github.com/ropenscilabs/actions_sandbox)
 ### [🗼 `learningtower` - userfriendly R package to provide easy access to a subset of variables from PISA data collected from the OECD](https://github.com/ropenscilabs/learningtower)
 ### [🎓 `Rcademy` - R for academic promotion](https://github.com/ropenscilabs/Rcademy)
 ### [🔥 `smoky` - is it smoky right now?](https://github.com/ropenscilabs/smoky)
