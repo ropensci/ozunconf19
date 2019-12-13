@@ -7,7 +7,7 @@
 ### [🗼 `learningtower` - userfriendly R package to provide easy access to a subset of variables from PISA data collected from the OECD](https://github.com/ropenscilabs/learningtower)
 ### [🎓 `Rcademy` - R for academic promotion](https://github.com/ropenscilabs/Rcademy)
 ### [🔥 `smoky` - is it smoky right now?](https://github.com/ropenscilabs/smoky)
-### [ `bnf` 🖊️ - parse grammar specifications in Backus–Naur form (BNF) and generate language from that grammar](https://github.com/ropenscilabs/bnf)
+### [ 🖊️   `bnf`  - parse grammar specifications in Backus–Naur form (BNF) and generate language from that grammar](https://github.com/ropenscilabs/bnf)
 
 -----
 
