@@ -9,6 +9,7 @@
 ### [🔥 `smoky` - is it smoky right now?](https://github.com/ropenscilabs/smoky)
 ### [ 🖊️   `bnf`  - parse grammar specifications in Backus–Naur form (BNF) and generate language from that grammar](https://github.com/ropenscilabs/bnf)
 ### [ 🎨🎨🎨🎨  `aRt_class`](https://github.com/ropenscilabs/aRt_class)
+### [  🙌🙌🙌  `praise-app`](https://alycerussell.shinyapps.io/praise-app/)
 
 -----
 
